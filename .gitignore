@@ -3,27 +3,32 @@ admin/assets
 admin/config
 admin/functions/global.js
 admin/models/DB.php
+admin/models/Main.php
 
 #ADMINISTRATIVOS
 administrativos/assets
 administrativos/config
 administrativos/functions/global.js
 administrativos/models/DB.php
+administrativos/models/Main.php
 
 #AUTORIDADES
 autoridades/assets
 autoridades/config
 administrativos/functions/global.js
 autoridades/models/DB.php
+autoridades/models/Main.php
 
 #DOCENTE
 docente/assets
 docente/config
 administrativos/functions/global.js
 docente/models/DB.php
+docente/models/Main.php
 
 #ESTUDIANTE
 estudiante/assets
 estudiante/config
 estudiante/functions/global.js
 estudiante/models/DB.php
+estudiante/models/Main.php
